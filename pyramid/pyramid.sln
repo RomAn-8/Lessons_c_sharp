@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_2_recursive_sum", "30_2_recursive_sum\30_2_recursive_sum.csproj", "{0BF9AB91-C8BF-421C-98F8-7F5CE9B39DB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pyramid", "pyramid\pyramid.csproj", "{DD6616EF-1600-4ABB-ABA3-7E052AD4977C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0BF9AB91-C8BF-421C-98F8-7F5CE9B39DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0BF9AB91-C8BF-421C-98F8-7F5CE9B39DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0BF9AB91-C8BF-421C-98F8-7F5CE9B39DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0BF9AB91-C8BF-421C-98F8-7F5CE9B39DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6616EF-1600-4ABB-ABA3-7E052AD4977C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6616EF-1600-4ABB-ABA3-7E052AD4977C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6616EF-1600-4ABB-ABA3-7E052AD4977C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6616EF-1600-4ABB-ABA3-7E052AD4977C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {503D7562-76C3-4049-8B5F-9F119AED0D01}
+		SolutionGuid = {C9C7A77D-3048-4300-846A-EF26CE3292E7}
 	EndGlobalSection
 EndGlobal
